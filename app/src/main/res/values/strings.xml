@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Assignment3</string>
+    <string name="temp1">Temp1</string>
+    <string name="temp2">Temp2</string>
 </resources>
